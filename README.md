@@ -16,7 +16,7 @@ Deployment can be done on all webservers...
 
 ## How to contribute
 
-Contribute ...
+Contribute ... changed to review
 
 ### Copyright
 
