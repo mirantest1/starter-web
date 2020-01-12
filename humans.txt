@@ -4,6 +4,9 @@
 # TEAM
 
 	Test Name 
+Franz
+MIran
+Horst
     <name> -- <role> -- <twitter>
 
 # THANKS
