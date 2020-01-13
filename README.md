@@ -21,4 +21,4 @@ Adding on master for rebasing...even more changes
 
 ### Copyright
 
-Copyright text
+Copyright text - all rights reserved.
