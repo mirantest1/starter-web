@@ -6,7 +6,8 @@
 	Test Name 
 Franz
 MIran
-Horst
+H$aorst
+Miran Novak
     <name> -- <role> -- <twitter>
 
 # THANKS
